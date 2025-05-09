@@ -4,6 +4,7 @@ Welcome to my Image Preprocessing Repository! 🚀 Here, I have uploaded various
 ## What’s Inside?
 1. Image mean and standard deviation calculation for normlizing the image.
 2. Rgb to Grayscale conversion
+3. Edge Detection 
 
 ## Why is Image Preprocessing Important?
 Preprocessing helps in improving model accuracy, reducing noise, and making the model more robust to variations in input data.
